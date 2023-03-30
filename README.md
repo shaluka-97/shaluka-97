@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shaluka-97/shaluka-97/blob/main/Welcome%20to%20My%20Git.png)
 <h1 align="center">Hi 👋, I'm shaluka dineth</h1>
 <h3 align="center">A passionate Devops Engineer from SriLanka</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
